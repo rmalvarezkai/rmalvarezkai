@@ -4,6 +4,8 @@
 # apt-get install pandoc texlive-latex-base lmodern texlive-latex-recommended
 
 RM=/bin/rm
+CAT=/usr/bin/cat
+GREP=/usr/bin/grep
 PANDOC=/usr/bin/pandoc
 
 INPUT_FILE=README.md
@@ -17,6 +19,13 @@ then
         ${RM} -f ${OUTPUT_FILE}
     fi
 
-    ${PANDOC} ${INPUT_FILE} -f markdown -t pdf -s -o ${OUTPUT_FILE}
+    ${CAT} ${INPUT_FILE} | ${GREP} -v RESUME | ${GREP} -v ${OUTPUT_FILE} | ${PANDOC} -f markdown -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray -t pdf -s -o ${OUTPUT_FILE}
 fi
+
+
+
+
+
+
+
 
