@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**rmalvarezkai/rmalvarezkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ricardo Marcelo Alvarez
+**email**: rmalvarezkai[at]gmail[dot]com
 
-Here are some ideas to get you started:
+## Areas of Knowledge
+- Managing virtualization systems with **KVM** and **XEN** in Production since 2009.
+- Managing databases **PostgreSQL** and **MySQL** since 2004.
+- Good knowledge of **Javascript**, **PHP**, **HTML**, **Python** and **Bash**.
+- Basic knowledge about **Blockchain**.
+- Basic knowledge of creating **Debian** packages and repositories.
+- Knowledge about building **Android APPS** with **Apache** **Cordova**.
+- Basic knowledge of **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Experience
+[GNUtransfer](https://www.gnutransfer.com) – SySAdmin, DBA, software developer, (May 2005 – Present)
+
+Developer of the control panel ([VPSControl](https://www.vps-control.com/)) for managing virtual machines with **KVM** and **XEN**. Using **PHP**
+on the backend and **HTML**, **Javascript** on the frontend.
+
+Work for the government (Argentina) - SySAdmin, DBA (March 1995 - April 2006)
+Migrate servers from proprietary software to free software (Linux, PostgreSQL, MySQL, Postfix, among
+others).
+
+## Languages
+English (basic), Spanish (native)
+
+## Hobbies
+
+- Electronics with arduino.
+- Develop python modules for crypto exchanges
+    - Ccxw \- CryptoCurrency eXchange Websocket Library 
+        - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
+        - [Ccxw on PyPI](https://pypi.org/project/ccxw)
+
+
+[Download this file in pdf format (RESUME)](Resume_latest.pdf)
