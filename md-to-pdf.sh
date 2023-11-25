@@ -7,6 +7,7 @@ RM=/usr/bin/rm
 CP=/usr/bin/cp
 CAT=/usr/bin/cat
 GREP=/usr/bin/grep
+SED=/usr/bin/sed
 MKDIR=/usr/bin/mkdir
 PANDOC=/usr/bin/pandoc
 
@@ -35,7 +36,7 @@ then
             ${CAT} ${INPUT_FILE} | ${PANDOC} -f markdown --metadata=title:Resume --template=pandoc-template.html -t ${TO_FORMAT} -s -o ${OUTPUT_FILE}
         elif [ ${TO_FORMAT} = "pdf" ]
         then
-            ${CAT} ${INPUT_FILE} | ${GREP} -v ${OUTPUT_FILE} | ${GREP} -v RESUME | ${PANDOC} -f markdown --highlight-style pygments -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray -t ${TO_FORMAT} -s -o ${OUTPUT_FILE} --include-in-header=custom-header.tex
+            ${CAT} ${INPUT_FILE} | ${GREP} -v ${OUTPUT_FILE} | ${GREP} -v RESUME | ${SED} '/____PDF_NEXT_PAGE____/c\\\newpage' | ${PANDOC} -f markdown --highlight-style pygments -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray -t ${TO_FORMAT} -s -o ${OUTPUT_FILE} --include-in-header=custom-header.tex
         else
             ${CAT} ${INPUT_FILE} | ${GREP} -v ${OUTPUT_FILE} | ${GREP} -v RESUME | ${PANDOC} -f markdown -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray -t ${TO_FORMAT} -s -o ${OUTPUT_FILE}
         fi

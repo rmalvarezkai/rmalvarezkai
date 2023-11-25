@@ -23,6 +23,7 @@ others).
 ## Languages
 English (basic), Spanish (native)
 
+[comment]: <> (____PDF_NEXT_PAGE____)
 ## Hobbies
 
 - Electronics with arduino.
@@ -30,6 +31,5 @@ English (basic), Spanish (native)
     - Ccxw \- CryptoCurrency eXchange Websocket Library 
         - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
         - [Ccxw on PyPI](https://pypi.org/project/ccxw)
-
 
 [Download this file in pdf format (RESUME)](Resume_latest.pdf)
