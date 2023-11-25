@@ -1,3 +1,7 @@
+---
+title: Resume
+author: Ricardo Marcelo Alvarez
+---
 
 # Ricardo Marcelo Alvarez
 **email**: rmalvarezkai[at]gmail[dot]com
