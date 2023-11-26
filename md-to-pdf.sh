@@ -40,11 +40,5 @@ then
         else
             ${CAT} ${INPUT_FILE} | ${GREP} -v ${OUTPUT_FILE} | ${GREP} -v RESUME | ${PANDOC} -f markdown -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray -t ${TO_FORMAT} -s -o ${OUTPUT_DIR}/${OUTPUT_FILE}
         fi
-
-        ${CP} -f ${OUTPUT_FILE} ${OUTPUT_DIR}/${OUTPUT_FILE}
     done
 fi
-
-
-
-
