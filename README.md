@@ -32,4 +32,4 @@ English (basic), Spanish (native)
         - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
         - [Ccxw on PyPI](https://pypi.org/project/ccxw)
 
-[Download this file in pdf format (RESUME)](resume-latest.pdf)
+[Download this file in pdf format (RESUME)](docs/resume-latest.pdf)
