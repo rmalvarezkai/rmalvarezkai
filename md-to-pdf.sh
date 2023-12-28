@@ -12,8 +12,20 @@ MKDIR=/usr/bin/mkdir
 PANDOC=/usr/bin/pandoc
 
 INPUT_FILE=README.md
-OUTPUT_FILES="resume-latest.pdf index.html"
-OUTPUT_DIR=docs
+
+if [ -n "$1" ]
+then
+    INPUT_FILE=$1
+fi
+
+if [ ${INPUT_FILE} = "README.md" ]
+then
+    OUTPUT_FILES="resume-latest.pdf index.html"
+    OUTPUT_DIR=docs
+else
+    OUTPUT_FILES=${INPUT_FILE%.md}.pdf
+    OUTPUT_DIR=docs
+fi
 
 if [ -f ${INPUT_FILE} ]
 then
