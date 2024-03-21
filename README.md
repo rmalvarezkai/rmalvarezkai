@@ -32,4 +32,8 @@ English (basic), Spanish (native)
         - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
         - [Ccxw on PyPI](https://pypi.org/project/ccxw)
 
+    - Ehdtd \- CryptoCurrency Exchange history data to database 
+        - [Ehdtd on github](https://github.com/rmalvarezkai/ehdtd)
+        - [Ehdtd on PyPI](https://pypi.org/project/ehdtd)
+
 [Download this file in pdf format (RESUME)](resume-latest.pdf)
