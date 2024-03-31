@@ -36,8 +36,8 @@ English (basic), Spanish (native)
         - [Ehdtd on github](https://github.com/rmalvarezkai/ehdtd)
         - [Ehdtd on PyPI](https://pypi.org/project/ehdtd)
 
-    - ehdtd-daemon \- CryptoCurrency Exchange history data to database 
-        - [Ehdtd on github](https://github.com/rmalvarezkai/ehdtd_daemon)
-        - [Ehdtd on PyPI](https://pypi.org/project/ehdtd_daemon)
+    - ehdtd-daemon \- Daemon script for the [Ehdtd](https://github.com/rmalvarezkai/ehdtd) package
+        - [ehdtd-daemon on github](https://github.com/rmalvarezkai/ehdtd_daemon)
+        - [ehdtd-daemon on PyPI](https://pypi.org/project/ehdtd_daemon)
 
 [Download this file in pdf format (RESUME)](resume-latest.pdf)
