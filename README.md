@@ -40,4 +40,7 @@ English (basic), Spanish (native)
         - [ehdtd-daemon on github](https://github.com/rmalvarezkai/ehdtd_daemon)
         - [ehdtd-daemon on PyPI](https://pypi.org/project/ehdtd_daemon)
 
+    - ehdtd-daemon-debian-pkg \- Script to create the Debian package for [ehdtd-daemon](https://github.com/rmalvarezkai/ehdtd_daemon).
+        - [ehdtd-daemon-debian-pkg on github](https://github.com/rmalvarezkai/ehdtd-daemon-debian-pkg)
+
 [Download this file in pdf format (RESUME)](resume-latest.pdf)
