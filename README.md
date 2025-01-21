@@ -1,7 +1,10 @@
+
 # Ricardo Marcelo Alvarez
+
 **email**: rmalvarezkai[at]gmail[dot]com
 
 ## Areas of Knowledge
+
 - Managing virtualization systems with **KVM** and **XEN** in Production since 2009.
 - Managing databases **PostgreSQL** and **MySQL** since 2004.
 - Good knowledge of **Javascript**, **PHP**, **HTML**, **Python** and **Bash**.
@@ -11,6 +14,7 @@
 - Basic knowledge of **Docker**
 
 ## Professional Experience
+
 [GNUtransfer](https://www.gnutransfer.com) – SySAdmin, DBA, software developer, (May 2005 – Present)
 
 Developer of the control panel ([VPSControl](https://www.vps-control.com/)) for managing virtual machines with **KVM** and **XEN**. Using **PHP**
@@ -21,26 +25,26 @@ Migrate servers from proprietary software to free software (Linux, PostgreSQL, M
 others).
 
 ## Languages
+
 English (basic), Spanish (native)
 
-[comment]: <> (____PDF_NEXT_PAGE____)
 ## Hobbies
 
 - Electronics with arduino.
 - Develop python modules for crypto exchanges
-    - Ccxw \- CryptoCurrency eXchange Websocket Library 
-        - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
-        - [Ccxw on PyPI](https://pypi.org/project/ccxw)
+  - Ccxw \- CryptoCurrency eXchange Websocket Library
+    - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
+    - [Ccxw on PyPI](https://pypi.org/project/ccxw)
 
-    - Ehdtd \- CryptoCurrency Exchange history data to database 
-        - [Ehdtd on github](https://github.com/rmalvarezkai/ehdtd)
-        - [Ehdtd on PyPI](https://pypi.org/project/ehdtd)
+  - Ehdtd \- CryptoCurrency Exchange history data to database
+    - [Ehdtd on github](https://github.com/rmalvarezkai/ehdtd)
+    - [Ehdtd on PyPI](https://pypi.org/project/ehdtd)
 
-    - ehdtd-daemon \- Daemon script for the [Ehdtd](https://github.com/rmalvarezkai/ehdtd) package
-        - [ehdtd-daemon on github](https://github.com/rmalvarezkai/ehdtd_daemon)
-        - [ehdtd-daemon on PyPI](https://pypi.org/project/ehdtd_daemon)
+  - ehdtd-daemon \- Daemon script for the [Ehdtd](https://github.com/rmalvarezkai/ehdtd) package
+    - [ehdtd-daemon on github](https://github.com/rmalvarezkai/ehdtd_daemon)
+    - [ehdtd-daemon on PyPI](https://pypi.org/project/ehdtd_daemon)
 
-    - ehdtd-daemon-debian-pkg \- Script to create the Debian package for [ehdtd-daemon](https://github.com/rmalvarezkai/ehdtd_daemon).
-        - [ehdtd-daemon-debian-pkg on github](https://github.com/rmalvarezkai/ehdtd-daemon-debian-pkg)
+  - ehdtd-daemon-debian-pkg \- Script to create the Debian package for [ehdtd-daemon](https://github.com/rmalvarezkai/ehdtd_daemon).
+    - [ehdtd-daemon-debian-pkg on github](https://github.com/rmalvarezkai/ehdtd-daemon-debian-pkg)
 
 [Download this file in pdf format (RESUME)](resume-latest.pdf)
