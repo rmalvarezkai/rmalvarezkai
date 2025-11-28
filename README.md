@@ -48,3 +48,5 @@ English (basic), Spanish (native)
     - [ehdtd-daemon-debian-pkg on github](https://github.com/rmalvarezkai/ehdtd-daemon-debian-pkg)
 
 [Download this file in pdf format (RESUME)](resume-latest.pdf)
+
+[Linkedin Profile](https://www.linkedin.com/in/rmalvarez/)
