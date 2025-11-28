@@ -1,0 +1,10 @@
+{
+    "python.envFile": "${workspaceFolder}/.venv",
+    "python.defaultInterpreterPath": "/bin/python",
+    "python.createEnvironment.contentButton": "show",
+    "python.autoComplete.extraPaths": [],
+    "python.analysis.extraPaths": [],
+    "git.enabled": false,
+    "markdown-preview-github-styles.lightTheme": "light",
+    "markdown-preview-github-styles.colorTheme": "dark"
+}

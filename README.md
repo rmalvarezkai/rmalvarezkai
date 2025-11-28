@@ -10,8 +10,8 @@
 - Good knowledge of **Javascript**, **PHP**, **HTML**, **Python** and **Bash**.
 - Basic knowledge about **Blockchain**.
 - Basic knowledge of creating **Debian** packages and repositories.
-- Knowledge about building **Android APPS** with **Apache** **Cordova**.
-- Basic knowledge of **Docker**
+- Good knowledge of **Docker**
+- Good knowledge of **Ansible**
 
 ## Professional Experience
 
