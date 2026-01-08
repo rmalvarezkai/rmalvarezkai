@@ -31,6 +31,11 @@ English (basic), Spanish (native)
 ## Hobbies
 
 - Electronics with arduino.
+- Develop python modules for math analysis.
+  - Discrete Fourier
+    - [Discrete Fourier on github](https://github.com/rmalvarezkai/discrete_fourier)
+    - [Discrete Fourier on PyPI](https://pypi.org/project/discrete-fourier/)
+
 - Develop python modules for crypto exchanges
   - Ccxw \- CryptoCurrency eXchange Websocket Library
     - [Ccxw on github](https://github.com/rmalvarezkai/ccxw)
