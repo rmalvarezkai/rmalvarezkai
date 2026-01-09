@@ -54,4 +54,4 @@ Inglés (básico), Español (nativo)
 
 [Perfil de Linkedin](https://www.linkedin.com/in/rmalvarez/)
 
-[Descargar este archivo en formato pdf (CURRÍCULUM)](resume-latest.pdf)
+[Descargar este archivo en formato pdf (CURRÍCULUM)](resume-latest-es.pdf)
