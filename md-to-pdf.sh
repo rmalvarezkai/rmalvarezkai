@@ -22,6 +22,10 @@ if [ ${INPUT_FILE} = "README.md" ]
 then
     OUTPUT_FILES="resume-latest.pdf index.html"
     OUTPUT_DIR=docs
+elif [ ${INPUT_FILE} = "README.es.md" ]
+then
+    OUTPUT_FILES="resume-latest-es.pdf index.es.html"
+    OUTPUT_DIR=docs
 else
     OUTPUT_FILES=${INPUT_FILE%.md}.pdf
     OUTPUT_DIR=docs
